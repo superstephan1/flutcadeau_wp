@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav {
+    padding: 2.5em;
+}
+
+.nav a{
+    padding-right: 1em;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    bottom: 0;
+    background-color: #cccccc;
+    padding-top: 2em;
+    justify-content: center;
+}
+
+.footer div {
+    display: flex;
+    justify-content: center;
+}
+
+.socials {
+    display: flex;
+    flex-direction: column;
+}
